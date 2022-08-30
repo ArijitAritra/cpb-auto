@@ -1,13 +1,3 @@
-
-# Decompiled by HTR-TECH | TAHMID RAYAT
-# Github : https://github.com/htr-tech
-#---------------------------------------
-# Auto Dis Parser 2.2.0
-# Source File : patched.pyc
-# Bytecode Version : 2.7
-# Time : Sat Aug  8 14:45:24 2020
-#---------------------------------------
-
 import requests
 import os
 import sys
