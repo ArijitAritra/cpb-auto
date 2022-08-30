@@ -77,4 +77,3 @@ while loop == 'true':
     print 'TOOLS UPDATING. PLEASE WAIT....'
     print 
     os.system('pip2 install --upgrade botolbababxp')
-    return None
